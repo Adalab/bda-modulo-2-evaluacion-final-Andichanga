@@ -1,1 +1,0 @@
-/*El ejercicio técnico*/
